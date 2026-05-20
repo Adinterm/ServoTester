@@ -4,8 +4,8 @@
 #include <Servo.h>
 
 // WiFi Configuration
-const char* ssid = "Kosan Bu Darlansyah";
-const char* password = "bayar_kosan_rek";
+const char* ssid = "WIFI_SSID";
+const char* password = "PASSWORD";
 
 // Static IP Configuration
 IPAddress local_IP(192, 168, 1, 150); 
