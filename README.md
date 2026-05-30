@@ -47,3 +47,12 @@ const char* password = "YOUR_WIFI_PASSWORD";
 IPAddress local_IP(192, 168, 1, 150); 
 IPAddress gateway(192, 168, 1, 1);   
 IPAddress subnet(255, 255, 255, 0);
+```
+
+## ServoTester_ESP8266
+![ServoTester_ESP8266](img/Preview.png)
+
+---
+
+## Servo_Touchpad
+![Servo_Touchpad](img/servotouchpad.jpg)
