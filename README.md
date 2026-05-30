@@ -16,10 +16,7 @@ A lightweight, high-performance ESP8266 project that hosts a web-based interacti
 ## 🛠️ Hardware Requirements
 
 * **Microcontroller:** ESP8266 (NodeMCU, Wemos D1 Mini, etc.)
-* **Servos:** 2x Standard Servos (X-Axis and Y-Axis)
-* **Wiring Guide:**
-    * **X-Axis Servo Signal Pin:** NodeMCU `D1` (GPIO5)
-    * **Y-Axis Servo Signal Pin:** NodeMCU `D2` (GPIO4)
+* **Servos**
     * *Note: Ensure your servos are connected to an appropriate external power source if needed, sharing a common ground with the ESP8266.*
 
 ---
